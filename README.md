@@ -1,3 +1,3 @@
-# Medical-Sales-and-Customer-Retention-Analysis-
+# Medical Sales and Customer Retention Analysis
 
 Project Backgroound 
