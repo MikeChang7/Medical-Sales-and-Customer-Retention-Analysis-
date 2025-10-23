@@ -14,8 +14,7 @@ This comprehensive analysis examines company data from 2021–2024 to uncover ke
 
 
 
-## Subheading
-asdf
-
+## Data Structure and ERD
+This data structure consists of 4 tables: x,y,z,zz consisting of a total row count of xxxx records.
 
 <img width="700" height="500" alt="erd_graph" src="https://github.com/user-attachments/assets/6710d95f-8f87-47d6-9db7-a95753366168" />
