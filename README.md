@@ -7,10 +7,10 @@ The head of business operations has given the task to provide valueable insights
 
 The following key insights and recommenations will focus on the following:
 
-*Sales Trends: Focusing on total revenue, running total, order volume, and average order value
-*Product Performance:
-*Customer Rentention:
-*Regional Comparisons:
+* Sales Trends: Focusing on total revenue, running total, order volume, and average order value
+* Product Performance:
+* Customer Rentention:
+* Regional Comparisons:
 
 
 
