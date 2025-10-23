@@ -1,11 +1,11 @@
 # **Medical Sales and Customer Retention Analysis**
 
 ### Background
-Medical-X is a Group Purchasing Organization (GPO) that partners with medical supply manufacturers to negotiate and facilitate contracts offering discounts and rebates to its member organizations. Since its establishment in 2021, Medical-X has experienced steady membership growth and consistent sales performance. However, the company continues to face challenges stemming from both internal inefficiencies and external market dynamics.
+Medical-X is a Group Purchasing Organization (GPO) that partners with medical supply manufacturers to negotiate and facilitate contracts offering discounts and rebates to its members. Since its establishment in 2021, Medical-X has experienced steady membership growth and consistent sales performance. However, the company continues to face challenges stemming from both internal inefficiencies and external market dynamics.
 
 To address these challenges, the Head of Business Operations has assigned the task of developing data-driven insights that cross-functional departments can leverage to enhance sales performance and strengthen relationships with its members.
 
-This comprehensive analysis examines company data from 2021–2024 to uncover key insights and provide actionable recommendations focused on four key areas:
+This comprehensive analysis examines the company's sales transaction and customer engagement data from 2021–2024 to uncover key insights and provide actionable recommendations focused on four key areas:
 
 * Sales Trends
 * Product Performance
