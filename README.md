@@ -30,6 +30,15 @@ This data structure consists of 4 tables: x,y,z,zz consisting of a total row cou
     * 2021 → 2022: Significant jump of 35.7%, suggesting expansion in customer base or higher-value product adoption
     * 2022 → 2023: Continued strong growth of 32.3%, maintaining momentum possibly due to strategic sales or new partnerships
     * 2023 → 2024: Growth slowed to 3.1%, implying market saturation or seasonal normalization after rapid scaling
+-
+
+**Product Performance**
+
+- Top 5 products by Sales
+- Order Volume
+- Average Order Value(AOV)
+
+**Customer Retention**
 
 
 
