@@ -23,3 +23,13 @@ This data structure consists of 4 tables: x,y,z,zz consisting of a total row cou
 ## Insights deep dive
 
 **Sales Trends**
+
+- Overall Growth: Between 2020 and 2024, total sales increased from $3.34 million to $6.25 million, representing an overall growth of approximately 87% across five years.
+- Year-over-Year Breakdown:
+    * 2020 → 2021: Slight increase of 1.3%, indicating stable but flat market activity post-launch
+    * 2021 → 2022: Significant jump of 35.7%, suggesting expansion in customer base or higher-value product adoption
+    * 2022 → 2023: Continued strong growth of 32.3%, maintaining momentum possibly due to strategic sales or new partnerships
+    * 2023 → 2024: Growth slowed to 3.1%, implying market saturation or seasonal normalization after rapid scaling
+
+
+
