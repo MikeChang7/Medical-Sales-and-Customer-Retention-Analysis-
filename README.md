@@ -34,8 +34,10 @@ This data structure consists of 4 tables: x,y,z,zz consisting of a total row cou
 
 **Product Performance**
 
-- Top 5 products by Sales
-- Order Volume
+- Top 5 products by Sales: Top selling products include hospital beds, defibrillator, ECG machine, stethoscope, and surgical gloves.
+- Order Volume:
+     * Overall pattern: Total units sold each year fluctuate moderately with alternating growth and decline periods rather than consistent upward movement. 2022 stands out as the strongest year for both volume and sales — possibly due to strong market expansion or large institutional purchases.
+     * Order volume shows cyclical variation — suggesting that increased sales have been driven more by higher unit prices or premium product mixes than by larger order counts
 - Average Order Value(AOV)
 
 **Customer Retention**
