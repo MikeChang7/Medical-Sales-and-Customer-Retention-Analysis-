@@ -34,7 +34,10 @@ This data structure consists of 4 tables: x,y,z,zz consisting of a total row cou
 
 **Product Performance**
 
-- Top 5 products by Sales: Top selling products include hospital beds, defibrillator, ECG machine, stethoscope, and surgical gloves.
+- Top Five Products by Sales:
+     * Top selling products include hospital beds, defibrillator, ECG machine, stethoscope, and surgical gloves.
+     * Hospital beds account for nearly 38% of sales. With only 4000 units sold, this implies its a high priced item.
+     * The top 5 products together contribute ~73% of total revenue, indicating a concentrated product portfolio.
 - Order Volume:
      * Overall pattern: Total units sold each year fluctuate moderately with alternating growth and decline periods rather than consistent upward movement. 2022 stands out as the strongest year for both volume and sales — possibly due to strong market expansion or large institutional purchases.
      * Order volume shows cyclical variation — suggesting that increased sales have been driven more by higher unit prices or premium product mixes than by larger order counts
