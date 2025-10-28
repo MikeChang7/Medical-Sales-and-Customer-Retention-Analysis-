@@ -1,4 +1,4 @@
-# **Medical Sales and Customer Retention Analysis**
+# **Healthcare Sales Analysis**
 
 ### Background
 Medical-X is a Group Purchasing Organization (GPO) that partners with medical supply manufacturers to negotiate and facilitate contracts offering discounts and rebates to its members. Since its establishment in 2020, Medical-X has experienced steady membership growth and consistent sales performance. However, the company continues to face challenges stemming from both internal inefficiencies and external market dynamics.
