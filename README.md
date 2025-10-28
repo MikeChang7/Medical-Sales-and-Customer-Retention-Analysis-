@@ -5,7 +5,7 @@ Medical-X is a Group Purchasing Organization (GPO) that partners with medical su
 
 To address these challenges, the Head of Business Operations has assigned the task of developing data-driven insights that cross-functional departments can leverage to enhance sales performance and strengthen relationships with its members.
 
-This comprehensive analysis examines the company's sales transaction and customer engagement data from 2021–2024 to uncover key insights and provide actionable recommendations focused on the following four key areas:
+This comprehensive analysis examines the company's sales transaction and customer engagement data from 2020–2024 to uncover key insights and provide actionable recommendations focused on the following four key areas:
 
 * Sales Trends: Focusing on total revenue, order volume, and average order value(AOV)
 * Product Performance
