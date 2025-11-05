@@ -59,7 +59,16 @@ This data structure consists of 4 tables: x,y,z,zz consisting of a total row cou
 - Spending Behavior:
      * Gold members contribute around $8.3 billion in total spend which is more than double of silver and over 5 times bronze members. This sugguests that loyalty and engagement has a strong correlation with sales performance. 
  
-  **Regional Comparisons**
+**Regional Comparisons**
 
+  - Regional Sales:
+    * The Northeast region contributes the highest total spend ($403.7M) — significantly outpacing the other three regions. This indicates strong customer purchasing behavior, suggesting effective sales strategies or higher market maturity in that region.
+    * The South follows as the second-highest, while the West and Midwest are smaller contributors in total revenue terms.
+  - Website Engagement:
+    * Despite lower overall spend, the Midwest stands out with the highest average website logins (111.9)
+    * This suggests customers in the Midwest are more digitally engaged, presenting a conversion opportunity to drive future sales.
+    * In contrast, the West region has both low spend and low engagement, indicating it may need targeted outreach or marketing campaigns.
+   
+    
 
 
