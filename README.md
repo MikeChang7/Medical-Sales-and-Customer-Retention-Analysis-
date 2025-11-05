@@ -7,10 +7,10 @@ To address these challenges, the Head of Business Operations has assigned the ta
 
 This comprehensive analysis examines the company's sales transaction and customer engagement data from 2020–2024 to uncover key insights and provide actionable recommendations focused on the following four key areas:
 
-* Sales Trends: Focusing on total revenue, order volume, and average order value(AOV)
-* Product Performance
-* Customer Engagement
-* Regional Comparisons
+* Sales Trends: Overall growth, YoY breakdown, and trend interpretation.
+* Product Performance: Highlighting top 5 products, order volume, and average order volume(AOV).
+* Customer Engagement: Member level distribution, website engagement, and spending behavior.
+* Regional Comparisons: Regional sales and website engagement.
 
 ## Executive Summary
 test
