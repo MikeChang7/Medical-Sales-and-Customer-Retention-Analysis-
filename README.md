@@ -47,8 +47,11 @@ This data structure consists of 4 tables: x,y,z,zz consisting of a total row cou
 - Order Volume:
   
      * Overall pattern: Total units sold each year fluctuate moderately with alternating growth and decline periods rather than consistent upward movement. 2022 stands out as the strongest year for both volume and sales — possibly due to strong market expansion or large institutional purchases.
-     * Order volume shows cyclical variation — suggesting that increased sales have been driven more by higher unit prices or premium product mixes than by larger order counts
-- Average Order Value(AOV)
+     * Order volume shows cyclical variation — suggesting that increased sales have been driven more by higher unit prices or premium product mixes than by larger order counts.
+       
+- Average Order Value(AOV):
+     * The AOV nearly doubled between 2020 and 2023, showing substantial growth in average order value. This suggests customers are purchasing higher-value products or buying in larger quantities per order.
+     * The overall AOV of $102.14 confirms strong average transaction value across the 5-year period.
 
 **Customer Engagement**
 
