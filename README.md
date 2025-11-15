@@ -58,7 +58,7 @@ This data structure consists of 4 tables: x,y,z,zz consisting of a total row cou
 - Membership Level Distribution:
      * Each membership tier has a similar number of customers (around 80–85 each). Gold members represent the highest engagement and sales volume because they're more active and higher-spending.
 - Website Engagement:
-     * Gold members average ~168 logins, which is higher than both bronze(52) and silver(88). This indicates a stronger online engagment leads to higher sales.
+     * Gold members average ~163 logins, which is higher than both bronze(48) and silver(89). This indicates a stronger online engagment leads to higher sales.
 - Spending Behavior:
      * Gold members contribute around $8.3 billion in total spend which is more than double of silver and over 5 times bronze members. This sugguests that loyalty and engagement has a strong correlation with sales performance. 
  
