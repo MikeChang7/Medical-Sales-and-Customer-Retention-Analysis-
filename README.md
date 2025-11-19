@@ -15,7 +15,7 @@ This comprehensive analysis examines the company's sales transaction and custome
 ## Data Structure and ERD
 This data structure consists of 4 tables: x,y,z,zz consisting of a total row count of xxxx records.
 
-<img width="700" height="500" alt="erd_graph" src="https://github.com/user-attachments/assets/6710d95f-8f87-47d6-9db7-a95753366168" />
+<img width="700" height="400" alt="erd_graph" src="https://github.com/user-attachments/assets/6710d95f-8f87-47d6-9db7-a95753366168" />
 
 ## Insights deep dive
 
@@ -35,6 +35,7 @@ This data structure consists of 4 tables: x,y,z,zz consisting of a total row cou
     * 2021 → 2022: Significant jump of 35.7%, suggesting expansion in customer base or higher-value product adoption
     * 2022 → 2023: Continued strong growth of 32.3%, maintaining momentum possibly due to strategic sales or new partnerships
     * 2023 → 2024: Growth slowed to 3.1%, implying market saturation or seasonal normalization after rapid scaling
+      
 - Trend Interpretation:
   
      * Sales show a clear upward linear trend with notable surges in 2022 and 2023, consistent with phases of business expansion. The downward trend in 2024 may indicate the need to explore new regions, products, or pricing strategies to sustain long-term performance.
@@ -42,16 +43,24 @@ This data structure consists of 4 tables: x,y,z,zz consisting of a total row cou
 **Product Performance**
 
 - Top Five Products by Sales:
-  
+
+  <img width="700" height="368" alt="top5" src="https://github.com/user-attachments/assets/82a7d7cf-68e8-429e-9468-efa208bf95b0" />
+
      * Top selling products include hospital beds, defibrillator, ECG machine, stethoscope, and surgical gloves.
      * Hospital beds account for nearly 38% of sales. With only 4000 units sold, this implies its a high priced item.
      * The top 5 products together contribute ~73% of total revenue, indicating a concentrated product portfolio.
+     
 - Order Volume:
   
+   <img width="900" height="400" alt="quantitysoldd" src="https://github.com/user-attachments/assets/a66911d1-979f-4bb5-aff7-6888f7891f01" />
+
      * Overall pattern: Total units sold each year fluctuate moderately with alternating growth and decline periods rather than consistent upward movement. 2022 stands out as the strongest year for both volume and sales — possibly due to strong market expansion or large institutional purchases.
      * Order volume shows cyclical variation — suggesting that increased sales have been driven more by higher unit prices or premium product mixes than by larger order counts.
        
 - Average Order Value(AOV):
+
+    <img width="900" height="350" alt="AOV" src="https://github.com/user-attachments/assets/8aa5350e-ae75-4faf-8d5c-1aa60607d265" />
+
      * The AOV nearly doubled between 2020 and 2023, showing substantial growth in average order value. This suggests customers are purchasing higher-value products or buying in larger quantities per order.
      * The overall AOV of $102.14 confirms strong average transaction value across the 5-year period.
 
