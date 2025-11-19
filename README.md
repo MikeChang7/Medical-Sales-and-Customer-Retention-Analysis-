@@ -13,7 +13,7 @@ This comprehensive analysis examines the company's sales transaction and custome
 * Regional Comparisons: Regional sales and website engagement.
 
 ## Data Structure and ERD
-This data structure consists of 4 tables: x,y,z,zz consisting of a total row count of xxxx records.
+This data structure consists of 4 tables: medical_products, medical_sales, customers_table, and engagement_table consisting of a total row count of xxxx records.
 
 <img width="700" height="400" alt="erd_graph" src="https://github.com/user-attachments/assets/6710d95f-8f87-47d6-9db7-a95753366168" />
 
@@ -55,7 +55,7 @@ This data structure consists of 4 tables: x,y,z,zz consisting of a total row cou
    <img width="900" height="400" alt="quantitysoldd" src="https://github.com/user-attachments/assets/a66911d1-979f-4bb5-aff7-6888f7891f01" />
 
      * Overall pattern: Total units sold each year fluctuate moderately with alternating growth and decline periods rather than consistent upward movement. 2022 stands out as the strongest year for both volume and sales — possibly due to strong market expansion or large institutional purchases.
-     * Order volume shows cyclical variation — suggesting that increased sales have been driven more by higher unit prices or premium product mixes than by larger order counts.
+     * Order volume shows cyclical variation — suggesting that increased sales have been driven more by higher unit prices or premium product mixes than by larger order counts.  
        
 - Average Order Value(AOV):
 
@@ -66,23 +66,32 @@ This data structure consists of 4 tables: x,y,z,zz consisting of a total row cou
 
 **Customer Engagement**
 
+  <img width="622" height="468" alt="memberlevell" src="https://github.com/user-attachments/assets/76ba2abb-6814-4c2f-bf9b-f3f41a0b6167" />
+
 - Membership Level Distribution:
      * Each membership tier has a similar number of customers (around 80–85 each). Gold members represent the highest engagement and sales volume because they're more active and higher-spending.
 - Website Engagement:
      * Gold members average ~163 logins, which is higher than both bronze(48) and silver(89). This indicates a stronger online engagment leads to higher sales.
 - Spending Behavior:
-     * Gold members contribute around $8.3 billion in total spend which is more than double of silver and over 5 times bronze members. This sugguests that loyalty and engagement has a strong correlation with sales performance. 
+     * Gold members contribute around $670 million in total spend which is almost double of silver and over 3 times bronze members. This sugguests that loyalty and engagement has a strong correlation with sales performance. 
  
 **Regional Comparisons**
+
+  <img width="800" height="350" alt="regionalspend" src="https://github.com/user-attachments/assets/8dffccf3-d4d2-41fe-a247-0eddcf812bd1" />
 
   - Regional Sales:
     * The Northeast region contributes the highest total spend ($403.7M) — significantly outpacing the other three regions. This indicates strong customer purchasing behavior, suggesting effective sales strategies or higher market maturity in that region.
     * The South follows as the second-highest, while the West and Midwest are smaller contributors in total revenue terms.
   - Website Engagement:
+
+    <img width="842" height="372" alt="avglogins" src="https://github.com/user-attachments/assets/17274ba8-c9bb-4f76-b97d-81143995f51c" /> 
+
     * Despite lower overall spend, the Midwest stands out with the highest average website logins (111.9)
     * This suggests customers in the Midwest are more digitally engaged, presenting a conversion opportunity to drive future sales.
     * In contrast, the West region has both low spend and low engagement, indicating it may need targeted outreach or marketing campaigns.
-   
+
+## Actionable Recommendations
+
     
 
 
