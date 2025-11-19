@@ -12,9 +12,6 @@ This comprehensive analysis examines the company's sales transaction and custome
 * Customer Engagement: Member level distribution, website engagement, and spending behavior.
 * Regional Comparisons: Regional sales and website engagement.
 
-## Executive Summary
-test
-
 ## Data Structure and ERD
 This data structure consists of 4 tables: x,y,z,zz consisting of a total row count of xxxx records.
 
@@ -25,17 +22,22 @@ This data structure consists of 4 tables: x,y,z,zz consisting of a total row cou
 **Sales Trends**
 
 - Overall Growth:
+
+  <img width="700" height="500" alt="Sales" src="https://github.com/user-attachments/assets/1fb897e8-1505-493d-8583-89d02c16ac41" />  
   
     * Between 2020 and 2024, total sales increased from $3.34 million to $6.25 million, representing an overall growth of approximately 87% across five years.
+    
 - Year-over-Year Breakdown:
-  
+
+  <img width="285" height="222" alt="yoy" src="https://github.com/user-attachments/assets/c2eef7ec-105f-4a16-b9d1-d8f97868c899" />
+
     * 2020 → 2021: Slight increase of 1.3%, indicating stable but flat market activity post-launch
     * 2021 → 2022: Significant jump of 35.7%, suggesting expansion in customer base or higher-value product adoption
     * 2022 → 2023: Continued strong growth of 32.3%, maintaining momentum possibly due to strategic sales or new partnerships
     * 2023 → 2024: Growth slowed to 3.1%, implying market saturation or seasonal normalization after rapid scaling
 - Trend Interpretation:
   
-     * Sales show a clear upward linear trend with notable surges in 2022 and 2023, consistent with phases of business expansion. The slower growth in 2024 may indicate the need to explore new regions, products, or pricing strategies to sustain long-term performance.
+     * Sales show a clear upward linear trend with notable surges in 2022 and 2023, consistent with phases of business expansion. The downward trend in 2024 may indicate the need to explore new regions, products, or pricing strategies to sustain long-term performance.
 
 **Product Performance**
 
