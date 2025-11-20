@@ -7,10 +7,10 @@ To address these challenges, the Head of Business Operations has assigned the ta
 
 This comprehensive analysis examines the company's sales transaction and customer engagement data from 2020–2024 to uncover key insights and provide actionable recommendations focused on the following four key areas:
 
-* Sales Trends: Overall growth, YoY breakdown, and trend interpretation.
-* Product Performance: Highlighting top 5 products, order volume, and average order volume(AOV).
-* Customer Engagement: Member level distribution, website engagement, and spending behavior.
-* Regional Comparisons: Regional sales and website engagement.
+* Sales Trends: Overall growth, YoY breakdown, and Trend Interpretation.
+* Product Performance: Highlighting Top 5 Products, Order Volume, and Average Order Volume(AOV).
+* Customer Engagement: Member Level Distribution, Website Engagement, and Spending Behavior.
+* Regional Comparisons: Regional Sales and Website Engagement.
 
 ## Data Structure and ERD
 This data structure consists of 4 tables: medical_products, medical_sales, customers_table, and engagement_table consisting of a total row count of 3034 records.
