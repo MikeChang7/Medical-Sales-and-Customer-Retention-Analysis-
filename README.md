@@ -13,7 +13,7 @@ This comprehensive analysis examines the company's sales transaction and custome
 * Regional Comparisons: Regional sales and website engagement.
 
 ## Data Structure and ERD
-This data structure consists of 4 tables: medical_products, medical_sales, customers_table, and engagement_table consisting of a total row count of xxxx records.
+This data structure consists of 4 tables: medical_products, medical_sales, customers_table, and engagement_table consisting of a total row count of 3034 records.
 
 <img width="700" height="400" alt="erd_graph" src="https://github.com/user-attachments/assets/6710d95f-8f87-47d6-9db7-a95753366168" />
 
@@ -92,6 +92,29 @@ This data structure consists of 4 tables: medical_products, medical_sales, custo
 
 ## Actionable Recommendations
 
+
+**For Sales Team -**
+
+1) Prioritize High-Value Members: Gold members showed stronger spend and online engagement.
+   * Offer business review meetings to strengthen relationships further.
+   * Identify members with growing spend but low login frequency and offer promotions for increased engagement activity.
+   * Introduce exclusive contract bundles to encourage long term committment. 
     
+2) Launch a Preventative "Churn Risk" Program: Silver and bronze members show lower engagement, lower spend, and higher churn potential.
+   * Provide quarterly check-in calls to help build relationships.
+   * Offer incentives to increase website usage. Engagement strongly correlates with spend. 
+   * Run automated alerts for accounts with declining sales or login activity.
+    
+**For Marketing Team -**
+
+1) Member Level Campaigns: 
+   * Gold members can benefit from exclusive VIP offers, customized messages for reaching membership tenure and special newsletters. 
+   * Silver members have a key upsell opportunity - they have moderate engagement and spending but could graduate to Gold with targeted campaigns.
+   * Bronze members could use re-engagement initiatives - email campaigns, incentives for online activity, offer seasonal discounts.
+ 
+2) Build an Engagement Program for Bronze Members:
+   * Automated emails promoting contract savings.
+   * Onboarding tutorials explaining how to navigate the portal.
+   * Monthly recaps that show potential savings they missed.
 
 
